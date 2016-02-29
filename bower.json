@@ -1,0 +1,34 @@
+{
+  "name": "contatooh",
+  "version": "0.0.0",
+  "homepage": "https://github.com/flaviohenriquealmeida/mean-livro-codigo",
+  "authors": [
+    "flaviohenriquealmeida <flaviohenriquealmeida@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "angular": "latest",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-mocks": "latest",
+    "angular-route": "latest",
+    "bootstrap": "latest",
+    "angular-bootstrap": "latest",
+    "angular-ui-router": "#master",
+    "web-bootstrap": "./node_modules/meanio/resources/web-bootstrap.js",
+    "angular-ui-select": "latest",
+    "angular-sanitize": "latest",
+    "angular-native-dragdrop": "^1.2.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "latest"
+  }
+}

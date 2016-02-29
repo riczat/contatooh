@@ -1,0 +1,6 @@
+export NODE_ENV=development
+export CLIENT_ID=70f8363943a9d2c9b466
+export CLIENT_SECRET=1c36608f6a2eda5bd0f4b2cba018804ce26e5ab2
+export SELENIUM_USER=riczat  
+export SELENIUM_USER_PASSWORD=emil9707
+protractor config/protractor.js
